@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Basit Sayı Toplama Uygulaması\Basit Sayı Toplama Uygulaması\bin\Debug\Basit Sayı Toplama Uygulaması.exe.config
+C:\Users\User\source\repos\Basit Sayı Toplama Uygulaması\Basit Sayı Toplama Uygulaması\bin\Debug\Basit Sayı Toplama Uygulaması.exe
+C:\Users\User\source\repos\Basit Sayı Toplama Uygulaması\Basit Sayı Toplama Uygulaması\bin\Debug\Basit Sayı Toplama Uygulaması.pdb
+C:\Users\User\source\repos\Basit Sayı Toplama Uygulaması\Basit Sayı Toplama Uygulaması\obj\Debug\Basit Sayı Toplama Uygulaması.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Basit Sayı Toplama Uygulaması\Basit Sayı Toplama Uygulaması\obj\Debug\Basit Sayı Toplama Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Basit Sayı Toplama Uygulaması\Basit Sayı Toplama Uygulaması\obj\Debug\Basit_Sayı_Toplama_Uygulaması.Form1.resources
+C:\Users\User\source\repos\Basit Sayı Toplama Uygulaması\Basit Sayı Toplama Uygulaması\obj\Debug\Basit_Sayı_Toplama_Uygulaması.Properties.Resources.resources
+C:\Users\User\source\repos\Basit Sayı Toplama Uygulaması\Basit Sayı Toplama Uygulaması\obj\Debug\Basit Sayı Toplama Uygulaması.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Basit Sayı Toplama Uygulaması\Basit Sayı Toplama Uygulaması\obj\Debug\Basit Sayı Toplama Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Basit Sayı Toplama Uygulaması\Basit Sayı Toplama Uygulaması\obj\Debug\Basit Sayı Toplama Uygulaması.exe
+C:\Users\User\source\repos\Basit Sayı Toplama Uygulaması\Basit Sayı Toplama Uygulaması\obj\Debug\Basit Sayı Toplama Uygulaması.pdb
